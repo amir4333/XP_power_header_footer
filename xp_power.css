@@ -21,6 +21,10 @@ body *{
     padding-top: 100rem;
 }
 
+.god *{
+    flex-direction: row-reverse;
+}
+
 .header {
     position: fixed;
     top: 0;
